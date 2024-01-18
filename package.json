@@ -1,11 +1,11 @@
 {
-  "name": "parcel-pack",
+  "name": "crud-is-rude",
   "version": "1.0.0",
   "description": "crud-is-rude",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /crud-is-rude/",
-    "server": "npx json-server db.json"
+    "server": "npx json-server db.json -p 4040"
   },
   "repository": {
     "type": "git",
