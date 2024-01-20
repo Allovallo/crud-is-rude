@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Последнее королевство",
       "author": "Бернард Корнуэлл",
       "genres": [
@@ -10,7 +10,7 @@
       "rating": 8.38
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "На берегу спокойных вод",
       "author": "Роберт Шекли",
       "genres": [
@@ -19,7 +19,7 @@
       "rating": 8.51
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Пожиратель призраков",
       "author": "Говард Лавкрафт",
       "genres": [
@@ -29,7 +29,7 @@
       "rating": 7.94
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Разоблаченный проходимец",
       "author": "Франц Кафка",
       "genres": [
@@ -38,7 +38,7 @@
       "rating": 6.62
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Два солнца",
       "author": "Леонид Кудрявцев",
       "genres": [
@@ -47,7 +47,7 @@
       "rating": 6.36
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Сон смешного человека",
       "author": "Федор Достоевский",
       "genres": [
@@ -62,7 +62,7 @@
         "JS"
       ],
       "rating": 10,
-      "id": 7
+      "id": "7"
     },
     {
       "title": "Тестовая книга",
@@ -71,7 +71,7 @@
         "JS"
       ],
       "rating": 10,
-      "id": 8
+      "id": "8"
     },
     {
       "title": "Большая тестовая книга по CSS",
@@ -80,7 +80,7 @@
         "CSS"
       ],
       "rating": 9,
-      "id": 11
+      "id": "11"
     },
     {
       "title": "Тестовая книга по CSS",
@@ -89,7 +89,7 @@
         "CSS"
       ],
       "rating": 9,
-      "id": 12
+      "id": "12"
     },
     {
       "title": "Большая новая тестовая книга по HTML",
@@ -98,7 +98,7 @@
         "HTML"
       ],
       "rating": 7,
-      "id": 13
+      "id": "13"
     },
     {
       "title": "Тестовая книга по HTML",
@@ -107,7 +107,7 @@
         "HTML"
       ],
       "rating": 4,
-      "id": 17
+      "id": "17"
     },
     {
       "title": "Тестовая книга по CSS",
@@ -116,7 +116,7 @@
         "CSS"
       ],
       "rating": 1,
-      "id": 18
+      "id": "18"
     },
     {
       "title": "Большая новая книга по NODEJS",
@@ -125,7 +125,7 @@
         "HTML"
       ],
       "rating": 7,
-      "id": 19
+      "id": "19"
     },
     {
       "title": "Тестовая книга по CSS",
@@ -134,7 +134,7 @@
         "CSS"
       ],
       "rating": 9,
-      "id": 20
+      "id": "20"
     },
     {
       "title": "Тестовая книга по CSS",
@@ -143,7 +143,133 @@
         "CSS"
       ],
       "rating": 9,
-      "id": 21
+      "id": "21"
+    },
+    {
+      "id": "4f2c",
+      "title": "Тестова книга",
+      "author": "grossco",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10
+    },
+    {
+      "id": "0467",
+      "title": "Тестова книга по CSS",
+      "author": "grossco",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9
+    },
+    {
+      "id": "fc5e",
+      "title": "Тестова книга по CSS",
+      "author": "grossco",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9
+    },
+    {
+      "id": "64b3",
+      "title": "Тестова книга по HTML",
+      "author": "grossco",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7
+    },
+    {
+      "id": "05b3",
+      "title": "Тестова книга по CSS",
+      "author": "grossco",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9
+    },
+    {
+      "id": "ffda",
+      "title": "Тестова книга по HTML",
+      "author": "grossco",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7
+    },
+    {
+      "id": "47c6",
+      "title": "Тестова книга по CSS",
+      "author": "grossco",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9
+    },
+    {
+      "id": "b682",
+      "title": "Тестова книга по HTML",
+      "author": "grossco",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7
+    },
+    {
+      "id": "6222",
+      "title": "Тестова книга по CSS",
+      "author": "grossco",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9
+    },
+    {
+      "id": "1461",
+      "title": "Тестова книга по HTML",
+      "author": "grossco",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7
+    },
+    {
+      "id": "7b7c",
+      "title": "Велика тестова книга з CSS",
+      "author": "grossco",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9
+    },
+    {
+      "id": "6f8e",
+      "title": "Тестова книга по HTML",
+      "author": "Mango",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 4
+    },
+    {
+      "id": "36f7",
+      "title": "Велика тестова книга з NODE.JS",
+      "author": "Mango",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 4
+    },
+    {
+      "id": "f065",
+      "title": "Велика тестова книга з HTML",
+      "author": "grossco",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 1
     }
   ]
 }
