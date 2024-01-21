@@ -17,16 +17,18 @@ addBook({
   author: 'grossco',
   genres: ['CSS'],
   rating: 9,
-}).then(renderBook);
+})
+  .then(renderBook)
+  .catch(error => console.log(error));
 
-addBook({
-  title: 'Тестова книга по HTML',
-  author: 'grossco',
-  genres: ['HTML'],
-  rating: 7,
-}).then(renderBook);
+// addBook({
+//   title: 'Тестова книга по HTML',
+//   author: 'grossco',
+//   genres: ['HTML'],
+//   rating: 7,
+// }).then(renderBook);
 
-function renderBook(book) {
-  console.log('Прийшла відповідь, можна малювати');
-  console.log(book);
-}
+// function renderBook(book) {
+//   console.log('Прийшла відповідь, можна малювати');
+//   console.log(book);
+// }
